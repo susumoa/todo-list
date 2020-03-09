@@ -1,11 +1,15 @@
-# Todos and goals
+# To-Do Goals Project
 
-Udacity's Redux lesson. Creating todos and goals lists, where you can add and delete todos and goals. First implemented with a factory function that creates store objects, then changed it to Redux.
+This repo is a code-along project for the React & Redux Course of the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
 
-## To get started:
+Most of the commits in this repository correspond to videos in the program.
 
-* clone project with `https://github.com/susumoa/reactnd-project-myreads-starter.git`
-* open index.html in browser
+## Project Setup
+
+1. Clone the Project - git clone https://github.com/susumoa/todo-list.git
+2. Go into the directory where the project now lives - `cd udacity-goals-todos`
+3. Install the dependencies - `npm install`
+4. Start the app - `npm start`
 
 ## Usage
 
